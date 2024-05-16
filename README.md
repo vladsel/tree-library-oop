@@ -1,5 +1,6 @@
 Design the tree node classes CTreeNode and binary tree CBinTree and use them to write the program according to the option. The tree is not balanced.
-(20.12.2020)
+(20.12.2020).
+
 Option 1.
 A binary tree (CBinTree) contains current information about books in the library. The tree is sorted by inventory numbers.
 Information about books (CTreeNode) contains:
